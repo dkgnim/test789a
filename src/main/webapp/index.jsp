@@ -190,7 +190,7 @@
             </div>
         </div>
 
-        <h1>Алексей Иванов</h1>
+        <h1>Hello Jenkins!</h1>
         <p class="subtitle">UI/UX Дизайнер & Фронтенд Разработчик</p>
 
         <div class="links-container">
